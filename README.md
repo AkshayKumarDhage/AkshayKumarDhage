@@ -5,10 +5,14 @@
 I am Interested in Software Engineering and Development.
 
 ## 💻 Skills:  
-##### 💠Programming: Python, Java, C++, C
-##### 💠Web Development: Spring Boot(Java), Flask(Python), HTML, CSS, BootStrap
-##### 💠Machine Learning: Python- Pandas, NumPy, Matplotlib, Seaborn, Sklearn
-##### 💠Tools: Git, Linux, Postman API client, Google Colab
+
+💠Programming: Python, Java, C++, C
+
+💠Web Development: Spring Boot(Java), Flask(Python), HTML, CSS, BootStrap
+
+💠Machine Learning: Python- Pandas, NumPy, Matplotlib, Seaborn, Sklearn
+
+💠Tools: Git, Linux, Postman API client, Google Colab
 
 
 <!-- icons  -->
@@ -16,7 +20,7 @@ I am Interested in Software Engineering and Development.
 [2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
 
 <!-- links to my social media accounts -->
-[1]: https://www.linkedin.com/in/AkshayKumarDhage
+[1]: https://www.linkedin.com/in/akshaykumardhage
 [2]: https://www.github.com/AkshayKumarDhage
 
 ## Say Hi:
