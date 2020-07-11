@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi👋
+## I'm Akshay 🧡
+
+###  Bachelor of Engineering in Information Science/IT.
+
+## Skills: 
+### 💠Programming: Python, Java, C++, C
+### 💠Web Development: Spring Boot(Java), Flask(Python), HTML, CSS, BootStrap
+### 💠Machine Learning: Python- Pandas, NumPy, Matplotlib, Seaborn, Sklearn
+### 💠Tools: Git, Linux, Postman API client, Google Colab
 
 <!--
 **AkshayKumarDhage/AkshayKumarDhage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
