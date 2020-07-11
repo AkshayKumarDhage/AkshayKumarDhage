@@ -2,6 +2,7 @@
 ## I'm Akshay 🧡
 
 ###  Bachelor of Engineering in Information Science/IT.
+I am Interested in Software Engineering and Development.
 
 ## Skills:  
 ##### 💠Programming: Python, Java, C++, C
