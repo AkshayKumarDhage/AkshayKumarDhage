@@ -1,7 +1,7 @@
 ### Hi👋
 ## I'm Akshay ❤
 
-###  🎓 Bachelor of Engineering in Information Science/IT.
+###  🎓 Bachelor of Engineering in Information Science/IT. 2021
 I am Interested in Software Engineering and Development.
 
 ## 💻 Skills:  
