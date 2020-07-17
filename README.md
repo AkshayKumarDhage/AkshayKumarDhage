@@ -1,10 +1,15 @@
 ### Hi👋
 ## I'm Akshay ❤
 
-###  🎓 Bachelor of Engineering in Information Science/IT. 2021
-I am Interested in Software Engineering and Development.
+#### About ME:
+I am entusiastic about programming to solve problems and contribute to develop great products.
+I Would like working with visionary people and productive team.
+
+My interests revovle around Software Engineering, Web Development, REST API Development, Machine Learning.
 
 <img src="https://github.com/AkshayKumarDhage/AkshayKumarDhage/blob/master/pics/pic1.jpg" height='300px' width="800px">
+
+###  🎓 Bachelor of Engineering in Information Science/IT (2021)
 
 ## 💻 Skills:  
 
