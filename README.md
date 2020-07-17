@@ -4,6 +4,8 @@
 ###  🎓 Bachelor of Engineering in Information Science/IT. 2021
 I am Interested in Software Engineering and Development.
 
+<img src="https://github.com/AkshayKumarDhage/AkshayKumarDhage/blob/master/pics/pic1.jpg" height='300px' width="800px">
+
 ## 💻 Skills:  
 
 💠Programming: Python, Java, C++, C
