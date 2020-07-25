@@ -1,6 +1,8 @@
 ### Hi👋
 ## I'm Akshay ❤
 
+[![HitCount](http://hits.dwyl.com/AkshayKumarDhage/AkshayKumarDhage.svg)](http://hits.dwyl.com/AkshayKumarDhage/AkshayKumarDhage)
+
 #### About ME:
 I am entusiastic about programming to solve problems and contribute to develop great products.
 I Would like working with visionary people and productive team.
