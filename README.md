@@ -37,6 +37,8 @@ My interests revovle around Software Engineering, Web Development, REST API Deve
 [![linkedin AkshayKumarDhage][1.1]][1]
 [![github AkshayKumarDhage][2.1]][2]
 
+![Alt Text](https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
+
 <!--
 **AkshayKumarDhage/AkshayKumarDhage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
